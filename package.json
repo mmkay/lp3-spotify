@@ -6,7 +6,8 @@
 	"author": "Mateusz Kulewicz",
 	"dependencies": {
 		"request": "latest",
-		"cheerio": "latest"
+		"cheerio": "latest",
+		"spotify-web-api-node": "latest"
 	},
 	"license": "MIT"
 }
