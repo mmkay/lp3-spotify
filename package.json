@@ -1,0 +1,12 @@
+{
+	"name": "lp3-spotify",
+	"version": "0.0.1",
+	"description": "Scrape the best songs from Lista Przebojów Trójki and create a Spotify playlist",
+	"main": "main.js",
+	"author": "Mateusz Kulewicz",
+	"dependencies": {
+		"request": "latest",
+		"cheerio": "latest"
+	},
+	"license": "MIT"
+}
